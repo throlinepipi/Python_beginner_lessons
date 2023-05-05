@@ -1,0 +1,10 @@
+*******************************************************************************************************************************************
+*                                            List                                                                    *                                          Tuple                                                 *
+*******************************************************************************************************************************************
+* Set of comma-separated values in the square brackets.                               * Set of comma0separated values in the parentheses.                   *
+* The brackets are mandatory.                                                                       * The parentheses are optional.                                                     *
+*  Mutable in nature.                                                                                      * Immutable in nature.                                                                  *
+* If the elements are not fixed, then one should go for list.                           * If the elements are fixed and  predefined, tuple should be used. *
+* The list objects cannot be used in dictionaries as keys because the keys     * The tuple objects cannot be used in dictorines as keys because   *
+are immutable and hashable.                                                                               the keys are immutable and hashable.
+*******************************************************************************************************************************************

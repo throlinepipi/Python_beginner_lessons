@@ -1,0 +1,18 @@
+1) File vs Directory
+ A module is a single file containing Python code,
+ while a package is a directory containing one or more modules, as well as other packages and sub-packages.
+
+2) Namespace
+ A module has its own namespace, which means that all the functions, classes, and variables defined in the module are isolated from the global namespace and from other modules.
+ A package, on the other hand, is a way to organize modules into a hierarchical namespace, which means that modules in a package can share a common namespace and can access each other's functions and variables.
+
+3) Import
+To use a module, you import it using the import statement,
+while to use a package, you also import it using the import statement, but you specify the name of the package and the name of the module using dot notation.
+
+4) Purpose
+Modules are used to encapsulate related functionality into a single file, making it easier to reuse and maintain code.
+Packages, on the other hand, are used to organize modules into a hierarchical structure that reflects the structure of the project, making it easier to manage large code bases.
+
+In summary, while modules are used to encapsulate code and isolate it from the global namespace,
+packages are used to organize modules into a hierarchical namespace and to manage larger projects.

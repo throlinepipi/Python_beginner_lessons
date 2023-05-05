@@ -1,0 +1,42 @@
+intro ^
+data type ^
+base conversion
+type casting ^
+escape characters ^
+basic built-in functions ^
+operators ^
+control flow -- conditional ^
+control flow -- iterative ^
+control flow -- transfer ^
+
+strings ^
+data structure -- list ^
+data structure -- tuple
+data structure -- set
+data structure -- dictionary
+
+functions
+git
+--------------------------------------------------------------------------------------------------- 2 months
+modules and packages
+
+basic object oriented programming -- OOP
+--------------------------------------------------------------------------------------------------- 1  month
+advance concepts of object oriented programming -- OOP
+
+exception handling
+file handling
+
+multithreading
+synchronization
+
+regular expressions and web scraping
+database programming
+--------------------------------------------------------------------------------------------------- 2.5 months
+MINI PROJECTS
+--------------------------------------------------------------------------------------------------- 1 month
+socket programming
+
+parallel processing
+--------------------------------------------------------------------------------------------------- 2 months
+medium project

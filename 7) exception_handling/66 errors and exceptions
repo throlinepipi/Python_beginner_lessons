@@ -1,0 +1,12 @@
+errors -- the problems in a program that will cause the program to stop the execution
+exceptions -- raised where some internal events occur that changes the normal flow of the program
+
+A statement may cause an error during execution when it is not syntactically incorrect.
+Such errors that occur at runtime are known as exceptions.
+An event may occur while running the program and may even disturb the regular flow of the program, known as an exception.
+
+Whenever a program meets a condition that it cannot deal with, then an exception is raised.
+
+Types of exceptions
+1) In-built or Pre-defined exceptions
+2) Customized or programmatic or user-defined exceptions
