@@ -1,0 +1,9 @@
+*******************************************************************************************************************************************
+*                                          Method                                                               *                                       Constructor                                           *
+*******************************************************************************************************************************************
+* Any name can be used to declare a method.                                               * The constructor is always declared using _init_                            *
+* The method is executed on calling it.                                                          * The constructor is automatically executed when an object of a    *
+*                                                                                                                           class is created.                                                                          *
+* It may be called any number of times, for each object.                               * The constructor is only executed once per object                         *
+* The business logic can be written inside methods.                                       * The instance variables are declared and initialized in it.               *
+*******************************************************************************************************************************************
